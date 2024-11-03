@@ -37,12 +37,6 @@
 
 ---
 
-## Commands
-
-Connecty offers a range of commands to make server management and interactions seamless. (Provide a brief overview or link to documentation if available.)
-
----
-
 ## Contributing
 
 Contributions are welcome! If you’re a developer and would like to add new features or improve existing ones:
