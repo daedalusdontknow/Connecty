@@ -48,6 +48,12 @@ Please ensure to include proper documentation for any new features.
 
 ---
 
+## Reporting Bugs 
+
+If you find a bug that isn’t listed here, please open an issue on the GitHub repository with a detailed description of the problem, steps to reproduce it, and any relevant logs or error messages.
+ 
+---
+
 <details>
 	<summary>Preview Screenshots</summary>
 	<img alt="logo" src="https://github.com/user-attachments/assets/1a24a020-c198-42c8-b1e5-227d9f5f1d04" width="512px"><br/>
