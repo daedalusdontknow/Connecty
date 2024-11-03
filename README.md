@@ -10,7 +10,7 @@
 
 <h2 align="center">About Connecty</h2>
 
-<p align="center">Connecty is a feature-rich Discord bot designed to enhance your server experience with intuitive and customizable commands.</p>
+<p align="center">Connecty is a public Chat bot. This means, you can connect many different server chats
 
 <p align="center">
 <a href="https://discord.com/oauth2/authorize?client_id=1187489773431029860"><b>Invite Connecty to your Server</b></a>
